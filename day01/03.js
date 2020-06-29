@@ -1,0 +1,1 @@
+window.console.log("我是一个geter")
